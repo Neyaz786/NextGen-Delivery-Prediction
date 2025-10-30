@@ -14,7 +14,7 @@ This project provides a comprehensive ML system for predicting delivery delays:
 ## 📁 Project Structure
 
 ```
-Predictive-Delivery-Optimizer/
+NextGen-Delivery-Prediction/
 │
 ├── src/
 │   ├── data_prep.py          # Data preparation and merging
@@ -194,23 +194,3 @@ The models are evaluated using:
 - **Type hints and docstrings**: All code includes documentation
 - **Logging**: Comprehensive logging for traceability
 - **PEP8 compliant**: Code follows Python style guidelines
-
-## 🔧 Troubleshooting
-
-### Models not found error
-Ensure you've run the model training script (`src/modeling.py`) before launching the dashboard.
-
-### Preprocessor not found error
-Ensure you've run the feature engineering script (`src/features.py`) before training models.
-
-### Data not found error
-Ensure CSV files are present in the `data/` directory and run `src/data_prep.py` first.
-
-## 👤 Author
-
-**NexGen Logistics** - Machine Learning Prototype
-
-## 📄 License
-
-This project is a prototype for internal use at NexGen Logistics.
-
