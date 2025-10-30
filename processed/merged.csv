@@ -1,0 +1,151 @@
+Order_ID,Priority,Product_Category,Order_Value_INR,Carrier,Promised_Delivery_Days,Actual_Delivery_Days,Customer_Rating,Delivery_Cost_INR,Distance_KM,Fuel_Consumption_L,Toll_Charges_INR,Traffic_Delay_Minutes,Weather_Impact,delay_days,is_delayed
+ORD000001,Express,Industrial,238.73,SpeedyLogistics,1,2,3,387.86,152.59,23.02,122.08,21,,1,1
+ORD000002,Express,Industrial,17.01,SpeedyLogistics,2,3,1,430.19,362.05,43.98,289.64,33,,1,1
+ORD000003,Economy,Industrial,3024.95,SpeedyLogistics,10,15,3,1039.19,519.74,65.75,415.79,2,,5,1
+ORD000004,Economy,Fashion,56.74,QuickShip,5,5,5,599.01,540.87,61.85,432.7,112,,0,0
+ORD000005,Standard,Fashion,19148.65,SpeedyLogistics,4,5,3,537.9,1251.56,147.54,1001.25,10,,1,1
+ORD000006,Express,Food & Beverage,158.22,GlobalTransit,1,2,4,378.99,3041.83,365.82,0.0,0,,1,1
+ORD000007,Standard,Electronics,736.82,QuickShip,3,3,4,439.72,854.87,103.85,683.9,10,,0,0
+ORD000008,Standard,Industrial,4771.54,GlobalTransit,5,10,2,836.35,1430.06,173.95,1144.05,81,,5,1
+ORD000009,Express,Books,3711.35,SpeedyLogistics,2,2,5,414.8,3708.13,446.18,0.0,0,,0,0
+ORD000010,Standard,Electronics,7936.32,GlobalTransit,4,9,3,891.65,771.73,88.0,617.39,16,Light_Rain,5,1
+ORD000011,Standard,Books,41.07,EcoDeliver,3,4,3,319.8,4720.83,562.82,0.0,0,,1,1
+ORD000012,Standard,Electronics,73.42,ReliableExpress,3,3,5,583.33,3797.36,454.22,0.0,0,,0,0
+ORD000013,Standard,Food & Beverage,566.23,QuickShip,3,3,4,587.57,164.57,22.21,131.65,102,,0,0
+ORD000014,Express,Industrial,1421.72,SpeedyLogistics,2,2,5,313.96,1450.16,171.78,1160.13,45,,0,0
+ORD000015,Standard,Industrial,396.69,EcoDeliver,3,3,5,435.14,1748.33,214.29,1398.67,25,Fog,0,0
+ORD000016,Standard,Healthcare,34.57,ReliableExpress,3,3,5,425.42,921.79,114.25,737.43,54,,0,0
+ORD000017,Standard,Books,849.69,GlobalTransit,5,5,4,437.4,2857.35,339.91,0.0,0,Light_Rain,0,0
+ORD000018,Economy,Electronics,301.46,EcoDeliver,7,8,3,658.72,757.12,90.97,605.7,114,,1,1
+ORD000019,Standard,Electronics,296.08,GlobalTransit,5,6,1,417.76,1571.48,193.39,1257.18,81,,1,1
+ORD000020,Express,Fashion,13.24,QuickShip,2,2,5,311.13,1123.6,135.75,898.88,6,Fog,0,0
+ORD000021,Express,Healthcare,1334.39,QuickShip,2,2,5,526.67,2601.42,308.26,0.0,0,Heavy_Rain,0,0
+ORD000022,Standard,Home Goods,501.6,SpeedyLogistics,3,3,5,363.82,3317.45,401.56,0.0,0,Heavy_Rain,0,0
+ORD000023,Express,Home Goods,5959.53,EcoDeliver,1,3,4,577.28,2187.37,266.32,0.0,0,,2,1
+ORD000024,Standard,Fashion,360.77,ReliableExpress,5,6,3,612.64,967.74,117.39,774.19,30,Light_Rain,1,1
+ORD000025,Economy,Fashion,943.42,QuickShip,10,10,5,951.95,1396.41,171.86,1117.13,85,Light_Rain,0,0
+ORD000026,Standard,Fashion,1404.91,SpeedyLogistics,5,6,3,629.91,1277.31,149.62,1021.84,20,,1,1
+ORD000027,Standard,Books,29.39,SpeedyLogistics,5,5,5,361.87,4413.31,527.38,0.0,0,,0,0
+ORD000028,Standard,Books,20435.93,GlobalTransit,5,5,5,620.17,4872.34,579.77,0.0,0,Fog,0,0
+ORD000029,Standard,Food & Beverage,211.41,ReliableExpress,3,3,5,267.94,4030.46,486.94,0.0,0,,0,0
+ORD000030,Standard,Food & Beverage,847.13,GlobalTransit,5,5,5,530.24,124.34,17.3,99.47,24,,0,0
+ORD000031,Economy,Fashion,1054.55,QuickShip,7,8,3,871.77,2207.09,259.91,0.0,0,Heavy_Rain,1,1
+ORD000032,Standard,Healthcare,118.85,ReliableExpress,3,5,3,416.08,4465.78,538.99,0.0,0,Heavy_Rain,2,1
+ORD000033,Economy,Electronics,6441.2,SpeedyLogistics,5,5,5,505.95,1290.06,150.85,1032.05,22,,0,0
+ORD000034,Economy,Books,601.2,ReliableExpress,7,8,3,791.94,2232.95,267.03,0.0,0,,1,1
+ORD000035,Express,Healthcare,292.89,SpeedyLogistics,2,3,3,602.9,212.22,23.95,169.77,2,,1,1
+ORD000036,Express,Industrial,496.59,EcoDeliver,2,3,3,518.38,3731.12,449.71,0.0,0,,1,1
+ORD000037,Express,Books,1269.5,QuickShip,1,1,4,253.27,2302.82,280.03,0.0,0,,0,0
+ORD000038,Express,Books,410.02,SpeedyLogistics,1,6,1,669.84,2338.79,284.08,0.0,0,,5,1
+ORD000039,Express,Food & Beverage,1514.58,GlobalTransit,2,3,3,368.69,3434.78,408.63,0.0,0,Light_Rain,1,1
+ORD000040,Standard,Electronics,32.22,GlobalTransit,5,5,5,637.37,1233.65,145.15,986.92,33,,0,0
+ORD000041,Express,Electronics,131.37,ReliableExpress,1,2,3,581.61,4410.45,533.55,0.0,0,,1,1
+ORD000042,Standard,Home Goods,16.31,ReliableExpress,4,4,4,588.56,4718.33,564.41,0.0,0,,0,0
+ORD000043,Economy,Home Goods,8066.8,QuickShip,10,12,1,1045.15,484.25,59.51,387.4,52,,2,1
+ORD000044,Express,Home Goods,7910.83,SpeedyLogistics,1,1,5,150.84,2643.88,316.43,0.0,0,Light_Rain,0,0
+ORD000045,Economy,Home Goods,1032.69,SpeedyLogistics,5,5,4,637.03,419.33,52.52,335.47,31,,0,0
+ORD000046,Standard,Industrial,88.33,SpeedyLogistics,3,5,3,681.84,3757.59,452.16,0.0,0,,2,1
+ORD000047,Express,Industrial,14542.31,QuickShip,1,1,4,166.22,4047.85,483.16,0.0,0,Light_Rain,0,0
+ORD000048,Standard,Books,162.94,EcoDeliver,3,3,5,598.64,1498.31,182.84,1198.65,21,,0,0
+ORD000049,Standard,Fashion,293.0,GlobalTransit,5,5,3,452.68,2359.86,287.35,0.0,0,Light_Rain,0,0
+ORD000050,Economy,Food & Beverage,512.5,SpeedyLogistics,5,5,4,616.12,782.46,90.48,625.97,33,,0,0
+ORD000051,Economy,Food & Beverage,794.15,QuickShip,10,10,5,920.14,1170.25,135.97,936.2,75,,0,0
+ORD000052,Economy,Home Goods,1059.66,ReliableExpress,7,8,3,765.07,274.67,29.85,219.74,92,,1,1
+ORD000053,Standard,Books,1125.45,ReliableExpress,3,3,5,286.91,569.49,70.41,455.59,86,,0,0
+ORD000054,Express,Healthcare,324.8,EcoDeliver,2,3,3,488.53,893.85,105.67,715.08,43,Light_Rain,1,1
+ORD000055,Economy,Fashion,1099.0,GlobalTransit,7,12,3,919.83,637.66,72.54,510.13,64,,5,1
+ORD000056,Economy,Books,303.74,SpeedyLogistics,7,7,5,810.13,3694.95,447.06,0.0,0,,0,0
+ORD000057,Economy,Fashion,961.94,EcoDeliver,10,10,5,761.7,1642.24,201.5,1313.79,82,Heavy_Rain,0,0
+ORD000058,Standard,Fashion,850.6,ReliableExpress,4,4,3,428.43,3131.95,380.48,0.0,0,,0,0
+ORD000059,Standard,Fashion,1266.83,GlobalTransit,3,7,1,749.94,1267.93,152.09,1014.35,32,Heavy_Rain,4,1
+ORD000060,Economy,Books,1050.42,ReliableExpress,5,5,5,515.07,4532.75,545.69,0.0,0,,0,0
+ORD000061,Standard,Home Goods,207.75,ReliableExpress,4,4,5,558.44,2762.69,335.28,0.0,0,,0,0
+ORD000062,Economy,Food & Beverage,802.77,QuickShip,5,5,4,608.58,573.35,65.1,458.68,67,Light_Rain,0,0
+ORD000063,Economy,Food & Beverage,1075.03,ReliableExpress,7,9,3,905.22,2894.16,343.35,0.0,0,Light_Rain,2,1
+ORD000064,Standard,Home Goods,58.17,GlobalTransit,4,5,3,589.48,3932.45,467.38,0.0,0,,1,1
+ORD000065,Economy,Fashion,267.45,QuickShip,7,7,5,650.86,1726.56,207.19,1381.25,40,,0,0
+ORD000066,Economy,Healthcare,1004.43,QuickShip,7,12,3,755.55,288.66,35.98,230.93,98,,5,1
+ORD000067,Express,Electronics,5239.28,ReliableExpress,1,1,5,196.3,2157.07,261.52,0.0,0,,0,0
+ORD000068,Economy,Books,1390.4,ReliableExpress,7,7,4,511.73,1497.71,183.23,1198.16,15,,0,0
+ORD000069,Standard,Electronics,5759.28,ReliableExpress,3,4,3,368.74,4609.29,555.42,0.0,0,,1,1
+ORD000070,Economy,Home Goods,221.95,SpeedyLogistics,10,15,1,1105.15,1453.61,176.97,1162.89,108,,5,1
+ORD000071,Standard,Healthcare,587.15,ReliableExpress,5,5,5,646.39,2409.8,290.69,0.0,0,Light_Rain,0,0
+ORD000072,Economy,Books,1351.0,ReliableExpress,5,9,1,762.0,2946.88,355.07,0.0,0,,4,1
+ORD000073,Standard,Home Goods,12.31,ReliableExpress,3,8,2,831.61,4139.62,493.75,0.0,0,Heavy_Rain,5,1
+ORD000074,Express,Fashion,3890.16,ReliableExpress,2,2,5,596.51,2862.23,342.15,0.0,0,,0,0
+ORD000075,Economy,Food & Beverage,24.75,ReliableExpress,10,15,3,1178.01,2334.54,280.3,0.0,0,,5,1
+ORD000076,Express,Electronics,1799.76,QuickShip,2,2,5,477.95,1520.32,177.58,1216.25,36,Heavy_Rain,0,0
+ORD000077,Standard,Industrial,1130.31,QuickShip,3,3,5,463.0,4514.8,543.87,0.0,0,Heavy_Rain,0,0
+ORD000078,Economy,Industrial,12.07,SpeedyLogistics,7,7,5,629.54,153.42,20.77,122.73,101,,0,0
+ORD000079,Economy,Healthcare,13.02,GlobalTransit,7,8,2,533.76,3785.4,449.35,0.0,0,,1,1
+ORD000080,Standard,Fashion,3458.96,QuickShip,3,3,5,409.75,1737.95,208.74,1390.36,101,Light_Rain,0,0
+ORD000081,Standard,Electronics,2495.1,ReliableExpress,5,7,3,814.05,873.36,102.48,698.69,80,,2,1
+ORD000082,Standard,Fashion,107.63,SpeedyLogistics,5,6,3,723.21,1759.22,207.36,1407.38,52,,1,1
+ORD000083,Standard,Electronics,107.47,SpeedyLogistics,5,10,2,686.42,3147.74,376.41,0.0,0,,5,1
+ORD000084,Standard,Healthcare,870.36,ReliableExpress,4,4,5,486.64,3306.52,395.1,0.0,0,,0,0
+ORD000085,Standard,Healthcare,395.79,SpeedyLogistics,4,7,1,776.69,4217.08,503.28,0.0,0,,3,1
+ORD000086,Economy,Industrial,1961.75,SpeedyLogistics,7,10,1,626.95,1070.1,129.09,856.08,116,,3,1
+ORD000087,Economy,Fashion,828.3,SpeedyLogistics,10,10,4,754.96,1756.13,214.21,1404.9,72,,0,0
+ORD000088,Economy,Books,4335.3,SpeedyLogistics,5,5,4,690.74,4489.29,539.78,0.0,0,,0,0
+ORD000089,Express,Industrial,1728.69,SpeedyLogistics,1,2,3,361.56,2621.28,311.08,0.0,0,Heavy_Rain,1,1
+ORD000090,Standard,Fashion,1189.35,GlobalTransit,4,5,3,381.05,4130.41,500.02,0.0,0,,1,1
+ORD000091,Express,Industrial,237.89,GlobalTransit,1,5,1,567.01,904.78,104.17,723.83,43,,4,1
+ORD000092,Standard,Books,213.15,EcoDeliver,5,5,4,694.7,1728.24,211.82,1382.59,4,,0,0
+ORD000093,Standard,Food & Beverage,373.29,QuickShip,4,8,1,736.11,1206.63,146.24,965.3,31,,4,1
+ORD000094,Economy,Food & Beverage,6383.13,ReliableExpress,10,11,3,740.51,721.66,83.85,577.33,107,,1,1
+ORD000095,Standard,Food & Beverage,219.33,SpeedyLogistics,3,3,5,403.7,1623.33,198.27,1298.66,44,,0,0
+ORD000096,Express,Food & Beverage,596.33,SpeedyLogistics,2,2,5,380.05,1768.81,212.53,1415.05,67,,0,0
+ORD000097,Express,Home Goods,13.91,ReliableExpress,1,2,3,431.71,1246.02,147.12,996.82,48,Heavy_Rain,1,1
+ORD000098,Economy,Electronics,1111.77,SpeedyLogistics,5,9,3,853.74,3012.02,363.69,0.0,0,,4,1
+ORD000099,Standard,Home Goods,11917.91,QuickShip,4,5,4,389.55,203.07,26.27,162.46,25,,1,1
+ORD000100,Express,Home Goods,99.44,QuickShip,2,2,5,555.86,2023.52,244.13,0.0,0,,0,0
+ORD000101,Express,Home Goods,47177.07,QuickShip,2,2,5,204.92,328.27,43.97,262.61,26,Light_Rain,0,0
+ORD000102,Economy,Food & Beverage,530.26,SpeedyLogistics,5,7,4,598.02,3062.8,372.03,0.0,0,Fog,2,1
+ORD000103,Express,Books,8.5,GlobalTransit,1,2,3,210.97,1155.54,142.95,924.44,61,,1,1
+ORD000104,Economy,Healthcare,226.26,QuickShip,5,5,5,507.19,3639.73,436.1,0.0,0,,0,0
+ORD000105,Economy,Healthcare,2968.04,SpeedyLogistics,10,10,5,810.33,381.77,45.27,305.42,43,Heavy_Rain,0,0
+ORD000106,Express,Electronics,8094.79,ReliableExpress,1,4,1,504.67,1246.39,145.94,997.11,74,Light_Rain,3,1
+ORD000107,Express,Food & Beverage,1184.59,ReliableExpress,1,1,5,216.25,1551.43,183.59,1241.15,69,,0,0
+ORD000108,Economy,Food & Beverage,4236.07,EcoDeliver,10,10,4,858.3,1182.12,141.84,945.69,55,Light_Rain,0,0
+ORD000109,Standard,Food & Beverage,68.95,SpeedyLogistics,3,3,5,267.91,4943.43,593.91,0.0,0,,0,0
+ORD000110,Standard,Industrial,145.42,ReliableExpress,5,10,2,904.76,3310.99,398.25,0.0,0,,5,1
+ORD000111,Economy,Fashion,32.49,QuickShip,10,10,5,978.66,1157.98,143.77,926.39,3,Light_Rain,0,0
+ORD000112,Economy,Industrial,162.78,GlobalTransit,10,10,4,735.91,1344.61,159.9,1075.69,16,Fog,0,0
+ORD000113,Economy,Fashion,1265.06,SpeedyLogistics,10,15,1,1056.9,986.48,123.15,789.19,118,,5,1
+ORD000114,Economy,Food & Beverage,555.01,ReliableExpress,7,7,5,601.56,1552.18,188.99,1241.74,99,,0,0
+ORD000115,Standard,Food & Beverage,1482.93,SpeedyLogistics,3,3,5,252.68,1189.05,144.35,951.24,58,Fog,0,0
+ORD000116,Express,Industrial,99.01,GlobalTransit,2,2,4,354.35,1398.08,171.32,1118.47,43,,0,0
+ORD000117,Economy,Industrial,108.5,SpeedyLogistics,5,5,4,666.69,115.37,12.41,92.29,27,,0,0
+ORD000118,Standard,Fashion,548.35,ReliableExpress,4,4,5,538.4,1178.42,138.63,942.73,103,Light_Rain,0,0
+ORD000119,Standard,Healthcare,163.37,ReliableExpress,3,7,1,490.5,4186.58,498.34,0.0,0,,4,1
+ORD000120,Economy,Fashion,2843.45,ReliableExpress,5,5,5,688.86,149.59,17.76,119.67,12,,0,0
+ORD000121,Express,Industrial,157.41,GlobalTransit,1,1,4,362.43,1632.35,192.42,1305.88,118,Heavy_Rain,0,0
+ORD000122,Standard,Books,191.89,SpeedyLogistics,3,3,5,586.69,1788.53,210.07,1430.83,92,,0,0
+ORD000123,Express,Industrial,756.16,QuickShip,2,2,3,432.09,3906.33,464.67,0.0,0,,0,0
+ORD000124,Standard,Books,224.99,QuickShip,5,5,5,573.88,198.09,23.22,158.48,89,,0,0
+ORD000125,Express,Electronics,63.28,SpeedyLogistics,2,3,3,292.1,1438.83,170.17,1151.07,83,,1,1
+ORD000126,Express,Industrial,77.55,ReliableExpress,1,2,3,266.94,806.53,100.26,645.22,0,,1,1
+ORD000127,Express,Electronics,903.84,EcoDeliver,2,2,5,588.81,4754.72,566.58,0.0,0,,0,0
+ORD000128,Standard,Healthcare,52.56,ReliableExpress,3,4,3,391.39,2662.56,314.9,0.0,0,,1,1
+ORD000129,Economy,Fashion,3280.49,ReliableExpress,5,7,3,840.98,2525.67,306.75,0.0,0,,2,1
+ORD000130,Standard,Books,143.22,EcoDeliver,5,5,5,562.77,1715.78,206.71,1372.62,10,,0,0
+ORD000131,Economy,Fashion,1016.71,SpeedyLogistics,5,5,5,404.32,826.75,97.47,661.4,114,,0,0
+ORD000132,Standard,Electronics,156.71,QuickShip,5,6,4,439.72,700.19,87.96,560.15,70,Light_Rain,1,1
+ORD000133,Standard,Books,102.22,EcoDeliver,5,5,4,433.55,3202.83,386.97,0.0,0,Light_Rain,0,0
+ORD000134,Economy,Fashion,583.56,SpeedyLogistics,5,6,3,770.25,1611.11,193.78,1288.89,108,,1,1
+ORD000135,Standard,Industrial,1954.08,ReliableExpress,3,6,1,565.66,416.43,48.29,333.14,102,,3,1
+ORD000136,Economy,Food & Beverage,278.37,QuickShip,5,10,1,758.17,1181.27,140.4,945.02,14,Heavy_Rain,5,1
+ORD000137,Express,Electronics,365.69,QuickShip,2,2,5,325.28,3380.01,401.55,0.0,0,Light_Rain,0,0
+ORD000138,Economy,Fashion,1354.42,ReliableExpress,10,13,3,808.82,180.99,23.99,144.79,92,Light_Rain,3,1
+ORD000139,Express,Electronics,1423.38,EcoDeliver,1,4,1,495.14,1212.91,142.06,970.32,56,,3,1
+ORD000140,Economy,Home Goods,380.8,ReliableExpress,10,10,4,652.02,177.19,19.16,141.75,108,,0,0
+ORD000141,Standard,Electronics,207.43,SpeedyLogistics,4,6,3,734.19,2383.6,288.69,0.0,0,,2,1
+ORD000142,Economy,Books,456.68,EcoDeliver,7,7,5,598.16,3249.7,390.19,0.0,0,,0,0
+ORD000143,Express,Home Goods,302.97,SpeedyLogistics,1,2,1,349.92,1754.23,207.77,1403.39,37,,1,1
+ORD000144,Standard,Books,645.14,GlobalTransit,3,5,2,539.6,3312.45,401.32,0.0,0,,2,1
+ORD000145,Economy,Food & Beverage,67.26,QuickShip,10,10,5,777.65,424.9,49.09,339.92,114,,0,0
+ORD000146,Standard,Home Goods,611.41,QuickShip,4,5,3,747.94,1361.22,166.83,1088.98,86,,1,1
+ORD000147,Standard,Industrial,137.35,GlobalTransit,5,6,3,618.15,1623.27,197.97,1298.62,111,Light_Rain,1,1
+ORD000148,Standard,Electronics,1570.0,EcoDeliver,3,3,5,285.28,408.74,47.76,326.99,46,Light_Rain,0,0
+ORD000149,Standard,Fashion,147.13,ReliableExpress,4,4,5,542.75,1774.26,215.45,1419.41,84,,0,0
+ORD000150,Standard,Healthcare,151.01,QuickShip,5,5,4,410.63,2448.8,292.66,0.0,0,,0,0

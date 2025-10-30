@@ -1,0 +1,30 @@
+{
+  "model_type": "RandomForestRegressor",
+  "timestamp": "2025-10-30T00:15:21.199771",
+  "best_params": {
+    "bootstrap": true,
+    "ccp_alpha": 0.0,
+    "criterion": "squared_error",
+    "max_depth": 13,
+    "max_features": null,
+    "max_leaf_nodes": null,
+    "max_samples": null,
+    "min_impurity_decrease": 0.0,
+    "min_samples_leaf": 6,
+    "min_samples_split": 17,
+    "min_weight_fraction_leaf": 0.0,
+    "monotonic_cst": null,
+    "n_estimators": 88,
+    "n_jobs": -1,
+    "oob_score": false,
+    "random_state": 42,
+    "verbose": 0,
+    "warm_start": false
+  },
+  "metrics": {
+    "mae": 1.0540637414310337,
+    "rmse": 1.3732968475531617,
+    "r2": 0.0405032174395098
+  },
+  "random_state": 42
+}
