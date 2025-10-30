@@ -189,7 +189,6 @@ The models are evaluated using:
 
 ## 📝 Notes
 
-- **No MLflow or external tracking**: All models and metadata are saved locally
 - **Standalone scripts**: Each module can be run independently
 - **Type hints and docstrings**: All code includes documentation
 - **Logging**: Comprehensive logging for traceability
